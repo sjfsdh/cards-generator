@@ -1,0 +1,19 @@
+# robots.txt for situp.online
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://situp.online/sitemap.xml
+
+# Disallow admin areas
+Disallow: /admin/
+Disallow: /wp-admin/
+
+# Allow all bots to all files
+Allow: /*.js$
+Allow: /*.css$
+Allow: /*.png$
+Allow: /*.jpg$
+Allow: /*.gif$
+Allow: /*.svg$
+
