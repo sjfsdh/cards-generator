@@ -14,12 +14,7 @@
           "value": "application/xml"
         }
       ]
-    }
-  ]
-}
-
-{
-  "headers": [
+    },
     {
       "source": "/ads.txt",
       "headers": [
